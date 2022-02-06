@@ -16,6 +16,9 @@ Keywords are ways to represents a value. for example ``` none ```
 There are three global keywords accepted by every CSS property.
 They are :
 
-1. ```inherit```
+1. ```inherit``` : makes the propery of a value of an element the same as that of the parent element. Most properties inherit by default.
 2. ```initial```
 3. ```unset```
+
+
+ 
