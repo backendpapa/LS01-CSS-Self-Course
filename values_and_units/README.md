@@ -17,8 +17,13 @@ There are three global keywords accepted by every CSS property.
 They are :
 
 1. ```inherit``` : makes the propery of a value of an element the same as that of the parent element. Most properties inherit by default.
-2. ```initial```
-3. ```unset```
+2. ```initial``` : the initial keyword resets the value of a property to its predefined value, in other words, it resets it.
+3. ```unset``` : it behaves as both initial or inherit
+
+the ```all``` property will inherit all the parents properties and keywords
+
+
+### Strings
 
 
  
